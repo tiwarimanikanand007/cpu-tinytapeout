@@ -54,7 +54,7 @@
  * ============================================================================
  */
 
-module tt_um_cpu_wrapper (
+module tt_um_tiwarimanikanand007_cpu (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: input path
